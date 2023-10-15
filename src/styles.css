@@ -1,0 +1,88 @@
+table, th, td, tr {
+    border: 3px solid brown;
+}
+table{
+    width: 200%;
+}
+th{
+    height: 60px;
+}
+td{
+    text-align: center;
+}
+
+h1 {
+    color: green;
+  }
+  tr:hover{
+    background-color: yellow;
+}
+body {
+    color: blue;
+  }
+  body {
+    background-color: lightblue;
+  }
+  h1 {
+    color: green;
+    
+  }
+  h2{
+    color: maroon;
+  }
+  
+ .personal-section {
+      background-color: lightblue;
+      border-style: dotted;
+     border-width: 5px;
+    
+     }
+    .professional-section {
+      background-color: lightgray;
+      border-style: double;
+      border-width: 15px;
+     border-radius: 12px;
+     padding: 5px;
+    }
+.image-group {
+    border: 3px solid #0074cc; 
+    margin: 10px;
+    padding: 10px; 
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+    background-color:red ;
+
+   }
+  #Special-ID {
+    padding: 25px;
+    text-align-last: center;
+    background-color: rgb(83, 48, 6);
+  border: 2px solid black;
+   outline: #af774c solid 10px;
+   margin: auto;  
+  
+  }
+  a{
+    text-decoration: none;
+    font-weight: bold;
+    color: blueviolet;
+   padding: 25px;   
+   margin: auto;
+  }
+  
+  .class1 {
+    background-color: #ff0000; 
+    color: #fff; 
+    padding: 10px;
+  }
+  .class2 {  
+    border: 2px solid #0074cc; 
+    margin: 10px;
+  }
+  
+  
+  
+  
+  
+  
